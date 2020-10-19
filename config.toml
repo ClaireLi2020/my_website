@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Chenying Li"
+title = "Chenying"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics

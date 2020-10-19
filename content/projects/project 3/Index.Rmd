@@ -1,0 +1,15 @@
+---
+title: "My Interest"
+author: "lcy"
+date: "2020/10/20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Violin and Classical Music
+
+I started played the violin since I was five and in high school, I reached professional grade of Central Conservatory of Music and also won many awards and prizes, but in the same time, the amount of training required to reach that level was very extensive, I have trained at least 1-2 hours every day for more than 10 years and almost never took a day off. I developed my persistence in this process as it took a lot of commitment and self-discipline to pass up relaxation time to practice it.
+Besides, playing violin enables me to attain strong skills of time-management and multi-tasking. I had other hobbies and a social life in addition to going to school full-time, and things could get super busy as I grew up, so gradually I learnt to prioritize my activities and arrange my schedule so that I would do everything I had to in addition to my work and study.
